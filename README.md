@@ -1,6 +1,4 @@
-# Maven Lab Questions: 15 Projects
 
-Each numbered folder is a separate Maven project with `pom.xml`, `src/main/java/`, and `src/test/java/`.
 
 Requirements: JDK 21, Maven 3.9.x, JUnit 4.13.2.
 
